@@ -11,11 +11,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Calling All Bored People!",
+      title: "Unbored",
       theme: ThemeData(
         primarySwatch: Colors.amber,
       ),
-      home: const BoredPage(title: "Calling All Bored People!"),
+      home: const BoredPage(title: "Unbored!"),
     );
   }
 }
