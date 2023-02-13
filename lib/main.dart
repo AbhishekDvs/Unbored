@@ -1,5 +1,5 @@
+import 'package:Unbored/screens/BoredPage.dart';
 import 'package:flutter/material.dart';
-import 'package:paramanu/screens/BoredPage.dart';
 
 void main() {
   runApp(const MyApp());
